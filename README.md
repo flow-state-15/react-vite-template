@@ -11,7 +11,7 @@ This repo is simply a stripped down vite starter for react projects. Some modifi
 
 Run
 
-`npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>`
+`npx tiged <YOUR-GH-USERNAME>/react-vite-template#main <new-project-name>`
 
 being sure to insert your information in the marked locations.
 
